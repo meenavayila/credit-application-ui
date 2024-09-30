@@ -1,0 +1,30 @@
+.cc-header{
+    
+    height: 4rem;
+    width: 100%;
+    background-color: var(--MdsBrandBar-_opaque-true__barBackgroundColor, #005bb8);
+    position: fixed;
+
+}
+
+.cc-header-logo{
+    float: left;
+    margin: 15px;
+    color: white;
+    padding-right: 5px;
+}
+
+.padding-2{
+    padding: 0 2px;
+}
+
+.cc-header-exit {
+    float: right;
+    margin: 15px;
+    color: white;
+    
+}
+
+.cc-chase-logo {
+    height: 20px;
+}

@@ -1,0 +1,25 @@
+
+.contact-info {
+    .row {
+        margin: 30px 0;
+      }
+}
+.contact-info-box {
+    
+    
+    padding: 15px 5px;
+    border-radius: 6px; 
+    margin-top: 52px,0;
+    height: 120px;
+   
+  }
+
+  
+.contact-icon {
+  color: blue;
+}
+
+.check-box {
+  width: 25px;
+  height: 20px;
+}

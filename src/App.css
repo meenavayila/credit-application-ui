@@ -1,0 +1,19 @@
+.App {  
+  background-color: white;
+  font-size: 15px;  
+
+  input, select, textarea {
+    width: 100%;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+  }
+  input, select, textarea:focus {
+    outline: none;
+  }
+
+  /** size classes **/
+  .margin-bottom-0 {
+    margin-bottom: 0 !important;
+  }
+}

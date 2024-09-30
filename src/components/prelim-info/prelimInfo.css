@@ -1,0 +1,30 @@
+.preliminfo {
+    
+}
+
+.card-img{
+    padding-top: 100px;
+    text-align: center;
+}
+
+.prelim-txt {
+    background-color:honeydew;
+    padding: 1rem;
+}
+
+.h5-txt{
+    padding-left: 0.3rem;
+    color: black;
+    display: flex;
+    align-items: start;
+}
+
+.prelim.margin {
+    margin: 1px solid gray;
+    height: 10px;
+    width: 15px;
+}
+
+.annual-fee-text {
+    padding: 0 10px;
+}
